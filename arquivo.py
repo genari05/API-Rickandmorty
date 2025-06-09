@@ -271,8 +271,8 @@ Este relatório foi gerado automaticamente pelo script Python.
 
 
 def enviar_email(destinatario, caminho_anexo):
-    remetente = 'tgenari791@gmail.com'
-    senha = 'ymoo jqop oliq texj'  # Use senha de aplicativo, não sua senha normal!
+    remetente = 'xxxxxx@exemplo.com'
+    senha = 'xxxx xxxx xxxx xxxx '  # Use senha de aplicativo, não sua senha normal!
 
     mensagem = MIMEMultipart()
     mensagem['From'] = remetente
@@ -313,4 +313,4 @@ if __name__ == '__main__':
     processa.processar_dados()'''
 
     relatorio_gerado = gerar_relatorio_resumo()
-    enviar_email('tiagogcaldeira@gmail.com', relatorio_gerado)
+    enviar_email('destinatario@xxx.com', relatorio_gerado)
