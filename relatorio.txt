@@ -1,0 +1,11 @@
+RELATÓRIO AUTOMÁTICO - RICK & MORTY
+
+Personagens coletados: 1
+Episódios coletados: 1
+Localizações coletadas: 1
+Dados processados: 1
+
+Exemplos de dados processados:
+- Rick Sanchez, HUMAN, Alive
+
+Este relatório foi gerado automaticamente pelo script Python.
